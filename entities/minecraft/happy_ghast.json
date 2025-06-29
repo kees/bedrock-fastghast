@@ -259,7 +259,7 @@
           "value": 0.03
         },
         "minecraft:flying_speed": {
-          "value": 0.016
+          "value": 0.25
         },
         "minecraft:knockback_resistance": {
           "value": 0.0
